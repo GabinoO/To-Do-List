@@ -1,0 +1,25 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#inputBox {
+  border-radius: 50px;
+  border: 2px solid #000000;
+  background: white;
+  padding: 20px;
+  width: 400px;
+  height: 100px;
+  text-align: center;
+}
+
+#textBox{
+  background : #00FFFF;
+  border-color: #00FFFF;
+}
+
+#title {
+  margin-top: 0; 
+  padding-top: 20px; 
+}
